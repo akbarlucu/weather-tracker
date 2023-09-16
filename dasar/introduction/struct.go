@@ -26,9 +26,5 @@ func main(){
 	// Cara 3
 	akbarlucu := Customer{"Ganteng", "Kepo", 15}
 	fmt.Println(akbarlucu)
-
-	asda := Customer{
-		
-	}
 	
 }
